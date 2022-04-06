@@ -6,7 +6,7 @@ public class Optional2 {
         int low = 0;
         int high = arr.length -1;
 
-        System.out.println(binarySearch2(arr,  low,  high, 99));;
+        System.out.println(binarySearch2(arr,  low,  high, -1));;
 
     }
 
@@ -25,6 +25,4 @@ public class Optional2 {
         }
         return 0;
     }
-
-
 }
