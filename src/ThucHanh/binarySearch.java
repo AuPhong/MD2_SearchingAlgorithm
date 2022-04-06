@@ -1,3 +1,5 @@
+package ThucHanh;
+
 public class binarySearch {
     public static int search(int[] arr, int target){
         int low = 0;
